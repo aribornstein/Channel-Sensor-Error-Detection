@@ -30,6 +30,4 @@ class predictivemodel:
     def getprediction(self, datavalue):
         b_new = json.loads(datavalue)
         a_new = np.array(b_new)
-        print("blabnidfanfidosaidsjdjfdisajfoisa")
-        print('{}{}'.format("tester ",a_new[3]))
         return self.clf.predict(a_new)
