@@ -5,3 +5,6 @@
   
 **Apps**
   - Code for ingesting channel data and preforming realtime classification and visualization using Event Hubs, Stream Analytics and PowerBI
+
+**Data**
+  - Anonymized Sample Velocity Channel Data
